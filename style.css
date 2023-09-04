@@ -1,0 +1,26 @@
+.form1{
+    width: 350px;
+    height: 550px;
+    background-color: rgb(13, 13, 72);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    text-align: center;
+}
+.form1>label{
+    color: white;
+    font-size: 20pt;
+}
+.form1>input[type="text"]{
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.form1>input[type="button"]{
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: rgb(34, 249, 102);
+}
